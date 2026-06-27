@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "raw_rows": 4292,
+    "model_rows": 4261,
+    "date_start": "2014-10-17",
+    "date_end": "2026-06-16",
+    "train_period": "2014-10-17 to 2022-12-15",
+    "val_period": "2022-12-16 to 2024-09-14",
+    "test_period": "2024-09-15 to 2026-06-16",
+    "missing_values": 32
+  },
+  "selected_model": "Ridge alpha 80",
+  "selected_model_test_metrics": {
+    "model": "Ridge alpha 80",
+    "MAE": 0.01968954071497278,
+    "RMSE": 0.026196252496139803,
+    "Directional_Accuracy": 0.5015625,
+    "R2": -0.21642758663145445,
+    "cumulative_return": 0.34540550451235097,
+    "buy_hold_return": 0.08811973435604581,
+    "annualized_sharpe": 0.6004080941479717,
+    "max_drawdown": -0.43109906711532997,
+    "long_days": 0.1828125
+  }
+}
